@@ -1,0 +1,111 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Ethan Mathis",
+            "email": "Ethan@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Scott Sewell",
+            "email": "ScottS@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Cortnie Hewlett",
+            "email": "CortnieH@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Briana Phillips",
+            "email": "BrianaP@gmail.com"
+
+        },
+        {
+            "id": 5,
+            "name": "Katie Zarbock",
+            "email": "KatieZ@gmail.com"
+
+        },
+        {
+            "id": 6,
+            "name": "Logan Welch",
+            "email": "LoganW@gmail.com"
+        },
+        {
+            "id": 7,
+            "name": "Will Jackson",
+            "email": "WillJ@gmail.com" 
+
+        },
+        {
+            "id": 8,
+            "name": "Elena Spradlin",
+            "email": "ElenaS@gmail.com" 
+
+        },
+        {
+            "id": 9,
+            "name": "Kelsey Lemmer",
+            "email": "KelseyL@gmail.com" 
+
+        },
+        {
+            "id": 10,
+            "name": "Casey Ferebee",
+            "email": "CaseyF@gmail.com" 
+
+        }
+    ],
+
+    "houses": [
+        {
+            "id":1,
+            "name": "Donelson Plaza Strike and Spare",
+            "type": "Brunswick"
+        },
+        {
+            "id": 2,
+            "name": "Tusculum Strike & Spare",
+            "type": "AMF"
+        },
+        { 
+            "id": 3,
+            "name": "Hermitage Strike and Spare",
+            "type":"AMF"
+        },
+        {
+            "id": 4,
+            "name": "Smyrna Bowling Center",
+            "type":"Brunswick"
+        },
+        {
+            "id": 5,
+            "name": "Pinewood",
+            "type":"Brunswick"
+        },
+        {
+            "id": 6,
+            "name":"Hendersonville Strike & Spare Family Fun Center",
+            "type": "AMF"
+        }
+    ],
+
+    "games": [
+        {
+            "id": 1,
+            "userId": 1,
+            "houseId": 1,
+            "score": 167
+        }
+    ],
+
+    "handicaps": [
+        {
+            "id": 1,
+            "userId": 3,
+            "houseId": 3,
+            "houseHandicap": 23
+        }
+    ]
+}
